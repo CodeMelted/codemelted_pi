@@ -1,6 +1,6 @@
 <center>
   <a title="Back to Codemelted Developer" href="https://developer.codemelted.com" target="_self"><img style="width: 100%; max-width: 300px;" src="https://developer.codemelted.com/assets/images/logos/developer-non-banner.png" /></a>
-  <div style="display: grid; grid-template-columns: auto auto auto auto auto; width: 100%; max-width: 500px;">
+  <div style="display: grid; grid-template-columns: auto auto auto auto auto; width: 100%; max-width: 300px;">
     <a title="Raspberry Pi Project" href="https://developer.codemelted.com/codemelted_pi" target="_self"><img style="height: 30px;" src="https://developer.codemelted.com/assets/images/icons/raspberry-pi.png"/></a>
     <a title="Embedded Module" href="https://developer.codemelted.com/codemelted_embedded" target="_self"><img style="height: 30px;" src="https://developer.codemelted.com/assets/images/icons/c.png"/></a>
     <a title="Terminal Module" href="https://developer.codemelted.com/codemelted_terminal" target="_self"><img style="height: 25px;" src="https://developer.codemelted.com/assets/images/icons/powershell.png"/></a>
@@ -14,7 +14,7 @@
 Welcome to the **CodeMelted - Raspberry Pi** project. This project aims to utilize the different **CodeMelted - Developer** modules as services on a Raspberry Pi. These services aim to allow a user to yield different configurations to utilize the Raspberry Pi. The identified services will include getting GPS coordinates, taking still frame pictures tagged with the GPS information, taking video to serve as a dashcam or webcam, provide infotainment within a vehicle, the ability to interface with the raspberry pi via the Internet, and finally, as a sky watching camera for nighttime astronomy. This document will serve as both the design of these services along with how to utilize it in these different configurations.
 
 <center>
-  <a title="Support My Work" href="#">
+  <a title="Support My Work" href="https://www.buymeacoffee.com/codemelted" target="_blank">
   <img id="btnSupport" style="height: 30px;" src="https://developer.codemelted.com/assets/images/icons/bmc-button.png"/>
   </a>
   <p>Please support my work if you find this module useful. Thank you.</p>
